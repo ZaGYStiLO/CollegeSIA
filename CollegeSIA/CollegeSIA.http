@@ -1,0 +1,6 @@
+@CollegeSIA_HostAddress = http://localhost:5152
+
+GET {{CollegeSIA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
